@@ -4,7 +4,8 @@
   "description": "newproject",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
@@ -17,6 +18,7 @@
   },
   "homepage": "https://github.com/Prashanth267/nodejs#readme",
   "dependencies": {
+    "express": "^4.18.2",
     "http": "^0.0.1-security"
   }
 }
