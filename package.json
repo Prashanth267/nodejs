@@ -1,0 +1,22 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "newproject",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prashanth267/nodejs.git"
+  },
+  "author": "prashanth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prashanth267/nodejs/issues"
+  },
+  "homepage": "https://github.com/Prashanth267/nodejs#readme",
+  "dependencies": {
+    "http": "^0.0.1-security"
+  }
+}
